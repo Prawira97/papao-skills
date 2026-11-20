@@ -74,6 +74,7 @@ Per-skill source and license. `Unknown` means no license file, license field, or
 | `color-palette` | Color | https://github.com/jezweb/claude-skills/tree/main/plugins/design-assets/skills/color-palette | MIT |
 | `container-escape-techniques` | — | — | Unknown — see source repo |
 | `cors-cross-origin-misconfiguration` | — | — | Unknown — see source repo |
+| `critical-hunter` | — | — | Unknown — see source repo |
 | `crlf-injection` | — | — | Unknown — see source repo |
 | `crypto-market-rank` | Binance | https://github.com/binance/binance-skills-hub | MIT |
 | `csp-bypass-advanced` | — | — | Unknown — see source repo |
