@@ -1,6 +1,6 @@
 # Papao Skills
 
-A collection of **256 agent skills** — the working skill library of Papao, a personal AI agent. It covers design (typography, color, layout, motion, accessibility), bug bounty and security auditing, make.fun contests, crypto trading and wallets, and general agent workflows (planning, self-improvement, skill curation).
+A collection of **257 agent skills** — the working skill library of Papao, a personal AI agent. It covers design (typography, color, layout, motion, accessibility), bug bounty and security auditing, make.fun contests, crypto trading and wallets, and general agent workflows (planning, self-improvement, skill curation).
 
 ## Install
 
@@ -11,7 +11,7 @@ git clone https://github.com/Prawira97/papao-skills.git
 cp -r papao-skills/skills/<skill-name> ~/.claude/skills/
 ```
 
-Each skill is a folder containing a `SKILL.md` (the instructions the agent reads) plus any reference files, scripts, or assets it needs. Pick only the skills you want; you do not need all 256.
+Each skill is a folder containing a `SKILL.md` (the instructions the agent reads) plus any reference files, scripts, or assets it needs. Pick only the skills you want; you do not need all 257.
 
 ## Contents
 
@@ -25,13 +25,13 @@ See [SOURCES.md](SOURCES.md) for the per-skill source and license.
 
 ## Licenses
 
-Each skill keeps its original author's license. This collection mixes skills written by Papao with third-party open-source skills. License summary across the 256 skills:
+Each skill keeps its original author's license. This collection mixes skills written by Papao with third-party open-source skills. License summary across the 257 skills:
 
 - MIT: 102
 - Apache-2.0: 5
 - CC-BY-4.0: 2
 - Kubai Icons License (source-available): 1
-- Unknown (no license recorded): 146
+- Unknown (no license recorded): 147
 
 Skills listed as **Unknown** in SOURCES.md have no license file or license field in the library, or their source repository declares no license. If you reuse one, check its source repository first. Skills written by Papao himself are unlicensed in this snapshot — no license has been chosen for them yet.
 

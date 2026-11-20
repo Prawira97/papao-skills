@@ -14,6 +14,7 @@ Per-skill source and license. `Unknown` means no license file, license field, or
 | `active-directory-kerberos-attacks` | — | — | Unknown — see source repo |
 | `add-shader-cursor-trail` | Effects | https://github.com/MengTo/Skills/tree/main/agent-skills/web-design/add-shader-cursor-trail | MIT |
 | `agency-grid-layout-minimal` | Layout | https://github.com/MengTo/Skills/tree/main/agent-skills/web-design/agency-grid-layout-minimal | MIT |
+| `agentic-bug-hunter-forge` | — | — | Unknown — see source repo |
 | `ai-lights` | Effects | https://github.com/arla6ka/design.how/tree/main/vault/ai-lights/skill | MIT |
 | `ai-ml-security` | — | — | Unknown — see source repo |
 | `algorithmic-art` | Effects | https://github.com/anthropics/skills/tree/main/skills/algorithmic-art | Apache-2.0 |
