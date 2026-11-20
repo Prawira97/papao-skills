@@ -1,0 +1,5 @@
+name: "muse-bug-bounty"
+title: "Hunt a Muse bug bounty"
+description: "Research, plan, and safely test a Meta Muse bug bounty target, from tier selection to a valid report."
+category: "Work and knowledge"
+include_in_prompt: false

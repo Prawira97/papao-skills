@@ -1,0 +1,5 @@
+name: "makefun-verify"
+title: "Verify a make.fun entry before submission"
+description: "Grade locally, check the gate and the bytes, and verify transcripts before a make.fun entry is submitted."
+category: "Work and knowledge"
+include_in_prompt: false

@@ -1,0 +1,24 @@
+name: bug_bounty_report_contact_verification
+title: Verify a bug bounty report contact before sending
+description: Verify the reporting address or form from the program official source before sending a bounty report, and check for bounces after sending.
+category: Work and knowledge
+include_in_prompt: false
+skill_improvement:
+  managed: true
+  status: active
+  evidence_handles:
+  - assistant-msg-58ff14ff
+  - assistant-msg-4383f9a6
+  - assistant-msg-e3915dc2
+  - assistant-msg-3bc35c64
+  - message:92a9ac11
+  - message:fcc79d97
+  measurement:
+    proxy_metric_id: bounty_report_contact_verification
+    success_criterion: Every email bounty report in the window goes only to an address verified from the program official source before sending, with a bounce check recorded after sending and before any later send to the same program, and zero reports are sent to an address already known to have bounced.
+    window_days: 14
+  rationale: 'Two Pacifica reports (Print Low and Edit Low) were sent to security@pacifica.fi and both bounced because that address does not exist, yet each was first reported as SENT because Gmail Sent only confirms the message left the mailbox. The Edit report went to the same dead address about five hours after the Print bounce, so the failure repeated instead of being caught, and the corrected address ops@pacifica.fi was only found in the official docs after the correction, with about $1,000 in first-report reward at stake. No managed skill covers first-send contact verification: bug_bounty_finding_alert covers notification timing only, muse_bug_bounty covers the Meta program only, and bug_bounty_specialist covers resend verification against Sent but not verifying the contact before the first send or checking for bounces before a later send. This new managed skill adds those two checks.'
+  needs_review: false
+  review_after: 2026-12-04T03:28:09.077795+00:00
+  reviewed_at: 2026-11-20T03:28:09.077795+00:00
+  run_id: sirun_ae6abe9cfa8c478c80e65be86b8fe99b

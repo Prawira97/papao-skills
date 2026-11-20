@@ -1,0 +1,5 @@
+name: "makefun-submit"
+title: "Submit a make.fun entry"
+description: "Bundle, check, submit and record a make.fun entry without burning a submission slot."
+category: "Work and knowledge"
+include_in_prompt: false

@@ -1,0 +1,5 @@
+name: "makefun-squad"
+title: "Run a make.fun builder squad"
+description: "Spawn and manage a coordinator-led builder squad for a make.fun entry within the machine's CPU limits."
+category: "Work and knowledge"
+include_in_prompt: false

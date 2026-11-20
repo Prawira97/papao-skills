@@ -1,0 +1,21 @@
+name: bug_bounty_finding_alert
+title: Alert the user at once on a validated bug bounty finding
+description: Notify the user immediately in the main chat when a Critical or High bug bounty finding is validated, and keep hunting without waiting for a reply.
+category: Work and knowledge
+include_in_prompt: false
+skill_improvement:
+  managed: true
+  status: active
+  evidence_handles:
+  - assistant-msg-baa7aaa1
+  - 2026-11-18 skill-improvement run, run clock 2026-11-18T05:37:11Z
+  - ~/workspace/bug-bounty-muse/valid-findings-archive.md
+  measurement:
+    proxy_metric_id: validated_finding_notification_delay
+    success_criterion: Every validated Critical or High finding in the window is messaged to the user in the main chat within 15 minutes of its validation timestamp, with zero cases first surfaced only in reply to a user status check.
+    window_days: 14
+  needs_review: false
+  rationale: 'BTSE #1, a validated Critical finding, was validated around 07:16 WITA on 2026-11-18 but was first reported to the user only at 08:36 WITA in reply to the user asking to check all valid findings, about 80 minutes later, with the admission that the coordinator did not report it directly at the time. That breached the standing rule that a validated Critical or High finding is messaged to the user directly at once and never batched to a status check, a rule also recorded in the alignment synthesis. The existing muse_bug_bounty skill covers the Meta Muse tier hunt and contains no coordinator immediate alert rule, and no managed skill exists in this loop, so a new managed skill carrying the return at once, alert before anything else, and keep hunting rules is the fix. The sell gate, transfer filter, WalletConnect QR, and deterministic handoff candidates were checked and not proposed: the sell gate fix is already claimed in bot code and auto trade is stopped so it cannot be measured, the transfer filter is claimed verified 53 of 53, the wallet connect skill is unmanaged and cannot be updated by this loop, and the handoff candidates name objective loop prompts with no raw evidence grounding a skill.'
+  review_after: 2026-12-02T05:37:11.133405+00:00
+  reviewed_at: 2026-11-18T05:37:11.133405+00:00
+  run_id: sirun_7a270985c14947c38fa5bd95bf9a5de9

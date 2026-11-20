@@ -1,0 +1,16 @@
+# Onchain-Pay Accounts — MODIFIED TEMPLATE (Papao, 2026-11-19)
+# DILARANG menyimpan API Key di file ini. Key WAJIB via env var ONCHAIN_PAY_API_KEY.
+# File ini (bila dipakai) HANYA untuk non-kredensial, dan harus permission 0600.
+# Simpan file ini di luar repo yang di-share.
+# ⛔ GATE KERAS: jangan kirim kredensial apa pun ke api.commonservice.io sampai
+#    kepemilikan/kepercayaan domain itu terkonfirmasi dari sumber resmi Binance.
+
+## Connect Accounts
+
+### prod (default)
+- Base URL: https://api.commonservice.io
+- Client ID: your-client-id
+- PEM Path: /absolute/path/to/your/private.pem
+- Default Network: your-preferred-network
+- Default Address: your-wallet-address
+- Description: Production account

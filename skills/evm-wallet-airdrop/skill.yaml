@@ -1,0 +1,5 @@
+name: "evm-wallet-airdrop"
+title: "Pengelola Dompet EVM dan Airdrop"
+description: "Manage EVM wallets safely and run airdrop and testnet tasks with per-action approval and a full log."
+category: "Work and knowledge"
+include_in_prompt: false

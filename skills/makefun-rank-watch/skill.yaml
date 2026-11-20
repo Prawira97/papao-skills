@@ -1,0 +1,5 @@
+name: "makefun-rank-watch"
+title: "Watch make.fun ranks and results"
+description: "Check make.fun entry status and leaderboard ranks without being fooled by the API omission quirk."
+category: "Work and knowledge"
+include_in_prompt: false

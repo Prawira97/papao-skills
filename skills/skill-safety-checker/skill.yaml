@@ -1,0 +1,5 @@
+name: "skill-safety-checker"
+title: "Pemeriksa Keamanan Skill"
+description: "Audit a third-party agent skill before installing it and give a SAFE, CAUTION, or UNSAFE verdict with evidence."
+category: "Work and knowledge"
+include_in_prompt: false

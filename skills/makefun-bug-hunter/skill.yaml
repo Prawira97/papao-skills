@@ -1,0 +1,5 @@
+name: "makefun-bug-hunter"
+title: "Bug Hunter di Make.Fun"
+description: "Hunt bugs in a make.fun bounty entry before submission so it survives the sealed run and the judge."
+category: "Work and knowledge"
+include_in_prompt: false
