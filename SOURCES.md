@@ -115,6 +115,7 @@ Per-skill source and license. `Unknown` means no license file, license field, or
 | `http2-specific-attacks` | — | — | Unknown — see source repo |
 | `hue` | Taste | https://github.com/dominikmartn/hue | MIT |
 | `humanize-skills` | — | — | CC-BY-4.0 |
+| `human-command-speed` | — | — | Unknown — see source repo |
 | `icon-set-generator` | Effects | https://github.com/jezweb/claude-skills/tree/main/plugins/design-assets/skills/icon-set-generator | MIT |
 | `idor-broken-object-authorization` | — | — | Unknown — see source repo |
 | `impeccable` | Taste | https://github.com/pbakaus/impeccable | Apache-2.0 |
@@ -249,6 +250,7 @@ Per-skill source and license. `Unknown` means no license file, license field, or
 | `web-quality-audit` | Review | https://github.com/addyosmani/web-quality-skills/tree/main/skills/web-quality-audit | MIT |
 | `web-typography` | Typography | https://github.com/wondelai/skills/tree/main/web-typography | MIT |
 | `web2-hunt-kit` | — | https://github.com/Onefine8/bug-bounty-skills | MIT |
+| `web3-tasks` | — | — | Unknown — see source repo |
 | `websocket-security` | — | — | Unknown — see source repo |
 | `windows-av-evasion` | — | — | Unknown — see source repo |
 | `windows-lateral-movement` | — | — | Unknown — see source repo |
