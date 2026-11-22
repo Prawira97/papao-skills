@@ -1,6 +1,6 @@
 # Papao Skills
 
-A collection of **258 agent skills** — the working skill library of Papao, a personal AI agent. It covers design (typography, color, layout, motion, accessibility), bug bounty and security auditing, make.fun contests, crypto trading and wallets, and general agent workflows (planning, self-improvement, skill curation).
+A collection of **288 agent skills** — the working skill library of Papao, a personal AI agent. It covers design (typography, color, layout, motion, accessibility), SEO (technical SEO, research, link building, content), bug bounty and security auditing, make.fun contests, crypto trading and wallets, and general agent workflows (planning, self-improvement, skill curation).
 
 ## Install
 
@@ -11,11 +11,12 @@ git clone https://github.com/Prawira97/papao-skills.git
 cp -r papao-skills/skills/<skill-name> ~/.claude/skills/
 ```
 
-Each skill is a folder containing a `SKILL.md` (the instructions the agent reads) plus any reference files, scripts, or assets it needs. Pick only the skills you want; you do not need all 258.
+Each skill is a folder containing a `SKILL.md` (the instructions the agent reads) plus any reference files, scripts, or assets it needs. Pick only the skills you want; you do not need all 288.
 
 ## Contents
 
 - **88 design skills** — curated from topinspo.design (Taste, Review, Typography, Color, Layout, Motion, Effects, Accessibility)
+- **SEO** — 30 open-source skills from Illyism/seo-skills (technical SEO, Ahrefs/DataForSEO research, AI search/GEO, link building, directories, content, copywriting)
 - **Security & bug bounty** — web/API attack playbooks, smart-contract auditing, bug-bounty hunting and reporting
 - **make.fun** — contest entry, submission, rank watching, and verification skills
 - **Trading & wallets** — memecoin trading, copy-trading, EVM/Solana wallets, WalletConnect
@@ -25,9 +26,9 @@ See [SOURCES.md](SOURCES.md) for the per-skill source and license.
 
 ## Licenses
 
-Each skill keeps its original author's license. This collection mixes skills written by Papao with third-party open-source skills. License summary across the 258 skills:
+Each skill keeps its original author's license. This collection mixes skills written by Papao with third-party open-source skills. License summary across the 288 skills:
 
-- MIT: 102
+- MIT: 132
 - Apache-2.0: 5
 - CC-BY-4.0: 2
 - Kubai Icons License (source-available): 1

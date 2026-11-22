@@ -15,8 +15,11 @@ Per-skill source and license. `Unknown` means no license file, license field, or
 | `add-shader-cursor-trail` | Effects | https://github.com/MengTo/Skills/tree/main/agent-skills/web-design/add-shader-cursor-trail | MIT |
 | `agency-grid-layout-minimal` | Layout | https://github.com/MengTo/Skills/tree/main/agent-skills/web-design/agency-grid-layout-minimal | MIT |
 | `agentic-bug-hunter-forge` | — | — | Unknown — see source repo |
+| `ahrefs-research` | SEO | https://github.com/Illyism/seo-skills | MIT |
 | `ai-lights` | Effects | https://github.com/arla6ka/design.how/tree/main/vault/ai-lights/skill | MIT |
 | `ai-ml-security` | — | — | Unknown — see source repo |
+| `ai-seo-report` | SEO | https://github.com/Illyism/seo-skills | MIT |
+| `aiseotracker` | SEO | https://github.com/Illyism/seo-skills | MIT |
 | `algorithmic-art` | Effects | https://github.com/anthropics/skills/tree/main/skills/algorithmic-art | Apache-2.0 |
 | `algorithmic-color-palette` | Color | https://github.com/dembrandt/dembrandt-skills/tree/main/skills/algorithmic-color-palette | MIT |
 | `alignment` | Layout | https://github.com/raphaelsalaja/skills/tree/main/skills/alignment | MIT |
@@ -40,6 +43,7 @@ Per-skill source and license. `Unknown` means no license file, license field, or
 | `audit-ai-design-slop` | Review | https://github.com/MengTo/Skills/tree/main/agent-skills/ui/audit-ai-design-slop | MIT |
 | `auth-sec` | — | — | Unknown — see source repo |
 | `authbypass-authentication-flaws` | — | — | Unknown — see source repo |
+| `awesome-tools` | SEO | https://github.com/Illyism/seo-skills | MIT |
 | `baseline-ui` | Taste | https://github.com/ibelick/ui-skills/tree/main/skills/baseline-ui | MIT |
 | `better-colors` | Color | https://github.com/jakubkrehel/skills/tree/main/skills/better-colors | MIT |
 | `better-layout` | Layout | https://github.com/jakubkrehel/skills/tree/main/skills/better-layout | MIT |
@@ -54,6 +58,10 @@ Per-skill source and license. `Unknown` means no license file, license field, or
 | `binance-trading-signal` | Binance | https://github.com/binance/binance-skills-hub | MIT |
 | `binance-wallet-tracker` | Binance | https://github.com/binance/binance-skills-hub | MIT |
 | `binary-protection-bypass` | — | — | Unknown — see source repo |
+| `blitz-copy` | Copywriting | https://github.com/Illyism/seo-skills | MIT |
+| `blitz-seo` | SEO | https://github.com/Illyism/seo-skills | MIT |
+| `block-ai-scrapers` | SEO | https://github.com/Illyism/seo-skills | MIT |
+| `blog-refresher` | SEO | https://github.com/Illyism/seo-skills | MIT |
 | `brand-visual-language` | Taste | https://github.com/dembrandt/dembrandt-skills/tree/main/skills/brand-visual-language | MIT |
 | `break-ui` | Review | https://github.com/emilkowalski/skills/tree/main/skills/break-ui | MIT |
 | `browser-exploitation-v8` | — | — | Unknown — see source repo |
@@ -73,6 +81,7 @@ Per-skill source and license. `Unknown` means no license file, license field, or
 | `color-mode-and-theme` | Color | https://github.com/dembrandt/dembrandt-skills/tree/main/skills/color-mode-and-theme | MIT |
 | `color-palette` | Color | https://github.com/jezweb/claude-skills/tree/main/plugins/design-assets/skills/color-palette | MIT |
 | `container-escape-techniques` | — | — | Unknown — see source repo |
+| `content-coverage` | SEO | https://github.com/Illyism/seo-skills | MIT |
 | `cors-cross-origin-misconfiguration` | — | — | Unknown — see source repo |
 | `critical-hunter` | — | — | Unknown — see source repo |
 | `crlf-injection` | — | — | Unknown — see source repo |
@@ -80,13 +89,18 @@ Per-skill source and license. `Unknown` means no license file, license field, or
 | `csp-bypass-advanced` | — | — | Unknown — see source repo |
 | `csrf-cross-site-request-forgery` | — | — | Unknown — see source repo |
 | `csv-formula-injection` | — | — | Unknown — see source repo |
+| `customer-journey` | Marketing | https://github.com/Illyism/seo-skills | MIT |
 | `dangling-markup-injection` | — | — | Unknown — see source repo |
+| `dataforseo-serp` | SEO | https://github.com/Illyism/seo-skills | MIT |
 | `defi-attack-patterns` | — | — | Unknown — see source repo |
 | `dependency-confusion` | — | — | Unknown — see source repo |
 | `deserialization-insecure` | — | — | Unknown — see source repo |
 | `design-everyday-things` | Review | https://github.com/wondelai/skills/tree/main/design-everyday-things | MIT |
 | `design-taste-frontend` | Taste | https://github.com/Leonxlnx/taste-skill | MIT |
+| `diff-marketing` | Marketing | https://github.com/Illyism/seo-skills | MIT |
+| `directory-submissions` | SEO | https://github.com/Illyism/seo-skills | MIT |
 | `dns-rebinding-attacks` | — | — | Unknown — see source repo |
+| `domain-migration` | SEO | https://github.com/Illyism/seo-skills | MIT |
 | `email-header-injection` | — | — | Unknown — see source repo |
 | `emil-design-eng` | Taste | https://github.com/emilkowalski/skills/tree/main/skills/emil-design-eng | MIT |
 | `evm-wallet-airdrop` | — | — | Unknown — see source repo |
@@ -112,12 +126,13 @@ Per-skill source and license. `Unknown` means no license file, license field, or
 | `hash-attack-techniques` | — | — | Unknown — see source repo |
 | `heap-exploitation` | — | — | Unknown — see source repo |
 | `holo` | Effects | https://github.com/arla6ka/design.how/tree/main/vault/holo/skill | MIT |
+| `honest-link-outreach` | SEO | https://github.com/Illyism/seo-skills | MIT |
 | `http-host-header-attacks` | — | — | Unknown — see source repo |
 | `http-parameter-pollution` | — | — | Unknown — see source repo |
 | `http2-specific-attacks` | — | — | Unknown — see source repo |
 | `hue` | Taste | https://github.com/dominikmartn/hue | MIT |
-| `humanize-skills` | — | — | CC-BY-4.0 |
 | `human-command-speed` | — | — | Unknown — see source repo |
+| `humanize-skills` | — | — | CC-BY-4.0 |
 | `icon-set-generator` | Effects | https://github.com/jezweb/claude-skills/tree/main/plugins/design-assets/skills/icon-set-generator | MIT |
 | `idor-broken-object-authorization` | — | — | Unknown — see source repo |
 | `impeccable` | Taste | https://github.com/pbakaus/impeccable | Apache-2.0 |
@@ -128,6 +143,8 @@ Per-skill source and license. `Unknown` means no license file, license field, or
 | `interaction-design` | Motion | https://github.com/wshobson/agents/tree/main/plugins/ui-design/skills/interaction-design | MIT |
 | `interface-design` | Taste | https://github.com/Dammyjay93/interface-design | MIT |
 | `interface-review` | Review | https://github.com/jakubkrehel/skills/tree/main/skills/interface-review | MIT |
+| `internal-linking` | SEO | https://github.com/Illyism/seo-skills | MIT |
+| `intro` | Content | https://github.com/Illyism/seo-skills | MIT |
 | `ios-pentesting-tricks` | — | — | Unknown — see source repo |
 | `jndi-injection` | — | — | Unknown — see source repo |
 | `jwt-oauth-token-attacks` | — | — | Unknown — see source repo |
@@ -137,6 +154,7 @@ Per-skill source and license. `Unknown` means no license file, license field, or
 | `kubai-icons` | Effects | https://github.com/kubai087/kubai-icons | Kubai Icons License (source-available) |
 | `kubernetes-pentesting` | — | — | Unknown — see source repo |
 | `lattice-crypto-attacks` | — | — | Unknown — see source repo |
+| `linkdr` | SEO | https://github.com/Illyism/seo-skills | MIT |
 | `linux-lateral-movement` | — | — | Unknown — see source repo |
 | `linux-privilege-escalation` | — | — | Unknown — see source repo |
 | `linux-security-bypass` | — | — | Unknown — see source repo |
@@ -172,9 +190,11 @@ Per-skill source and license. `Unknown` means no license file, license field, or
 | `open-redirect` | — | — | Unknown — see source repo |
 | `p2p` | — | — | MIT |
 | `page-transition-animation` | Motion | https://github.com/iart-ai/web-animation-skills/tree/main/skills/page-transition-animation | MIT |
+| `parasite-and-pr` | Marketing | https://github.com/Illyism/seo-skills | MIT |
 | `payment-assistant` | Binance | https://github.com/binance/binance-skills-hub | MIT |
 | `pixel2motion` | Effects | https://github.com/nolangz/pixel2motion | MIT |
 | `problem-solving` | — | — | Unknown — see source repo |
+| `proof-kb` | SEO | https://github.com/Illyism/seo-skills | MIT |
 | `prototype-pollution` | — | — | Unknown — see source repo |
 | `prototype-pollution-advanced` | — | — | Unknown — see source repo |
 | `query-address-info` | — | — | Unknown — see source repo |
@@ -183,6 +203,7 @@ Per-skill source and license. `Unknown` means no license file, license field, or
 | `race-condition` | — | — | Unknown — see source repo |
 | `recon-and-methodology` | — | — | Unknown — see source repo |
 | `recon-for-sec` | — | — | Unknown — see source repo |
+| `reddit-serp` | SEO | https://github.com/Illyism/seo-skills | MIT |
 | `refactoring-ui` | Review | https://github.com/wondelai/skills/tree/main/refactoring-ui | MIT |
 | `request-smuggling` | — | — | Unknown — see source repo |
 | `responsive-design` | Layout | https://github.com/wshobson/agents/tree/main/plugins/ui-design/skills/responsive-design | MIT |
@@ -191,9 +212,14 @@ Per-skill source and license. `Unknown` means no license file, license field, or
 | `saml-sso-assertion-attacks` | — | — | Unknown — see source repo |
 | `sandbox-escape-techniques` | — | — | Unknown — see source repo |
 | `sc-audit` | — | — | Unknown — see source repo |
+| `scribiz` | Content | https://github.com/Illyism/seo-skills | MIT |
 | `scroll-craft` | Motion | https://github.com/nateherkai/scroll-craft | MIT |
 | `security-audit` | — | — | Unknown — see source repo |
 | `self-improvement-loop` | — | — | MIT |
+| `seo-autopilot` | SEO | https://github.com/Illyism/seo-skills | MIT |
+| `seo-blog-images` | Content | https://github.com/Illyism/seo-skills | MIT |
+| `seo-roast` | SEO | https://github.com/Illyism/seo-skills | MIT |
+| `seo-title-optimization` | SEO | https://github.com/Illyism/seo-skills | MIT |
 | `shader-dev` | Effects | https://github.com/MiniMax-AI/skills/tree/main/skills/shader-dev | MIT |
 | `shaders-cursor-ripples` | Effects | https://github.com/MengTo/Skills/tree/main/agent-skills/web-design/shaders-cursor-ripples | MIT |
 | `skill-curator` | — | — | MIT |
@@ -235,6 +261,8 @@ Per-skill source and license. `Unknown` means no license file, license field, or
 | `ui-review` | Review | https://github.com/arla6ka/design.how/tree/main/skills/ui-review | MIT |
 | `ui-ux-pro-max` | Taste | https://github.com/nextlevelbuilder/ui-ux-pro-max-skill | MIT |
 | `unauthorized-access-common-services` | — | — | Unknown — see source repo |
+| `understand-customers` | Copywriting | https://github.com/Illyism/seo-skills | MIT |
+| `unslop-seo` | Content | https://github.com/Illyism/seo-skills | MIT |
 | `upload-insecure-files` | — | — | Unknown — see source repo |
 | `userinterface-wiki` | Review | https://github.com/raphaelsalaja/userinterface-wiki | MIT |
 | `ux-audit` | Review | https://github.com/jezweb/claude-skills/tree/main/plugins/dev-tools/skills/ux-audit | MIT |
@@ -244,6 +272,7 @@ Per-skill source and license. `Unknown` means no license file, license field, or
 | `visual-design-foundations` | Layout | https://github.com/wshobson/agents/tree/main/plugins/ui-design/skills/visual-design-foundations | MIT |
 | `visual-emphasis-and-hierarchy` | Review | https://github.com/dembrandt/dembrandt-skills/tree/main/skills/visual-emphasis-and-hierarchy | MIT |
 | `vm-and-bytecode-reverse` | — | — | Unknown — see source repo |
+| `vs-and-alternatives` | SEO | https://github.com/Illyism/seo-skills | MIT |
 | `waf-bypass-techniques` | — | — | Unknown — see source repo |
 | `wallet-connect` | — | — | Unknown — see source repo |
 | `wcag-audit-patterns` | Accessibility | https://github.com/wshobson/agents/tree/main/plugins/accessibility-compliance/skills/wcag-audit-patterns | MIT |
@@ -262,3 +291,4 @@ Per-skill source and license. `Unknown` means no license file, license field, or
 | `xslt-injection` | — | — | Unknown — see source repo |
 | `xss-cross-site-scripting` | — | — | Unknown — see source repo |
 | `xxe-xml-external-entity` | — | — | Unknown — see source repo |
+| `youtube-seo` | Content | https://github.com/Illyism/seo-skills | MIT |
